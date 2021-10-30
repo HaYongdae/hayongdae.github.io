@@ -11,8 +11,8 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 #-------------------------------
 # Author Settings
 author:
-  author__name: Camelia Mendes
-  author__bio: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
+  author__name: Yongdae Ha
+  author__bio: Data Science, Cloud computing, Data Visualization. I am going to share Dashboard template and some docs.
   author__avatar: '/images/01-1.jpg'
 
 social:
@@ -29,8 +29,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hey, I’m Camelia Mendes
-  hero__description: Designs, talks, and writes about web, ethics, privacy, and dev. I share design tutorials, free resources and inspiration.
+  hero__title: Hey, I’m Yongdae Ha
+  hero__description: Data Science, Cloud computing, Data Visualization. I am going to share Dashboard template and some docs.
   hero__image: '/images/01.jpg'
 
 
@@ -71,7 +71,7 @@ gallery:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
+  email: mh2010mh@naver.com # Add your email for contant form
   description: Menso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
