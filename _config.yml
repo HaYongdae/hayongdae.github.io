@@ -12,7 +12,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Yongdae Ha
-  author__bio: Data Science & Visualization, Cloud computing. I am going to share Dashboard template and some docs.
+  author__bio: Data Science & Visualization, Cloud computing.  I share Dashboard template and some docs.
   author__avatar: '/images/01-1.jpg'
 
 social:
@@ -30,7 +30,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hey, I’m Yongdae Ha
-  hero__description: Data Science & Visualization, Cloud computing. I am going to share Dashboard template and some docs.
+  hero__description: Data Science & Visualization, Cloud computing.  I share Dashboard template and some docs.
   hero__image: '/images/01.jpg'
 
 
