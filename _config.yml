@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Menca
+title: Yongdae Ha
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Menca personal blogging theme for Jekyll
+description: Site for studing and sharing useful info 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -12,7 +12,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Yongdae Ha
-  author__bio: Data Science, Cloud computing, Data Visualization. I am going to share Dashboard template and some docs.
+  author__bio: Data Science, Cloud computing, Visualization. I am going to share Dashboard template and some docs.
   author__avatar: '/images/01-1.jpg'
 
 social:
