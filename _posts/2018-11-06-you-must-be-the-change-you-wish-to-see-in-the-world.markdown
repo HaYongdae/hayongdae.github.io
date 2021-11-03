@@ -5,7 +5,7 @@ description: Leverage agile frameworks to provide a robust synopsis for high lev
 date:   2020-11-06 15:01:35 +0300
 image:  '/images/05.jpg'
 video_embed: https://www.youtube.com/embed/gYO1uk7vIcc
-tags:   [workflow, hobby]
+tags:   [workflow, CLOUD]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Andrew Wulf](https://unsplash.com/photos/Tc3c8ZDIbxw) diversity and empowerment.
 

@@ -4,7 +4,7 @@ title:  The way I see it, every life is a pile of good things
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
 date:   2020-10-31 15:01:35 +0300
 image:  '/images/11.jpg'
-tags:   [lifestyle, fashion, study]
+tags:   [DW, DataBase, study]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Steven Aguilar](https://unsplash.com/photos/j5qpdhh23GI) diversity and empowerment.
 
