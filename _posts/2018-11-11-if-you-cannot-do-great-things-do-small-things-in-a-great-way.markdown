@@ -6,16 +6,19 @@ date:   2021-12-18 11:14:00 +0900
 image:  '/images/04.jpg'
 tags:   [PowerBI,Report,Visualization]
 ---
-### 1. PowerBI 소개
+## 1. PowerBI 소개
 
-> PowerBI는 데이터를 시각화하는 Microsoft사의 툴입니다. Microsoft의 지향점이 언제나 "사용자 친화"였다는 점을 생각할 때 손쉽게 접하실 수 있습니다. 보고서를 만들 엑셀 혹은 DataBase 데이터가 준비되어 있다면 바로 메뉴얼을 따라 시도해보세요. 궁금하신 점은 메일 ([HYD's mail address]({site.baseurl}/contact/))로 문의를 주셔도 좋습니다.
+> PowerBI는 데이터를 시각화하는 Microsoft사의 툴입니다. 
+Microsoft의 지향점이 언제나 "사용자 친화"였다는 점을 생각할 때 손쉽게 접하실 수 있습니다.
+보고서를 만들 엑셀 혹은 DataBase 데이터가 준비되어 있다면 바로 메뉴얼을 따라 시도해보세요.
+궁금하신 점은 메일 ([HYD's mail address]({site.baseurl}/contact/))로 문의를 주셔도 좋습니다.
 
 <!-- ![Dashboard Example](https://i.pinimg.com/564x/58/7f/f6/587ff6e84599bfd1bae3d94ab3aa83f6.jpg#wide)
 *Photo by [datapine.com](https://i.pinimg.com/564x/58/7f/f6/587ff6e84599bfd1bae3d94ab3aa83f6.jpg) on [pinterest](https://pin.it/aWl26qJ)* -->
 
-### 2. PowerBI 메뉴얼
+## 2. PowerBI 메뉴얼
 
-#### 1) PowerBI 다운로드
+### 1) PowerBI 다운로드
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
