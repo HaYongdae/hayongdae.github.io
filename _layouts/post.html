@@ -40,7 +40,7 @@ layout: default
             </div>
           {% endif %}
   
-          <h1 class="post__title">{ page.title <!--| escape 2021-12-18 prevent involving <br> tag in title--> }</h1>
+          <h1 class="post__title", style="white-space: pre-line">{{ page.title | unescape <!-- 2021-12-18 prevent involving <br> tag in title--> }}</h1>
   
           <div class="post__meta">
             <a href="{{site.baseurl}}/about/" class="post__author-image">
