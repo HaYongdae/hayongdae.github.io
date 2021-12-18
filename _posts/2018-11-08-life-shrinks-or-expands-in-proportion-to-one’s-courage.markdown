@@ -2,7 +2,7 @@
 layout: post
 title:  Life shrinks or expands in proportion to one’s courage
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
-date:   2020-11-08 15:01:35 +0300
+date:   2021-12-18 11:14:00 +0300
 image:  '/images/03.jpg'
 tags:   [PowerBI, technology]
 ---
