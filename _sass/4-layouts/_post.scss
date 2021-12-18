@@ -237,7 +237,7 @@
   img[src$='#wide'] {
     display: block;
     width: 100vw;
-    max-width: none;
+    max-width: 1100;
     margin-left: 50%;
     transform: translateX(-50%);
     border-radius: 0;
