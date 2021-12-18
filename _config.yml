@@ -69,8 +69,8 @@ gallery:
 #-------------------------------
 # Contact Settings
 contact:
-  email: mh2010mh@naver.com # Add your email for contant form
-  description: Menso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: tearthelimit@gmail.com # Add your email for contant form
+  description: 블로그 내용에 대한 궁금한 점을 메일로 남겨주세요. (tearthelimit@gmail.com) # Add a description of your form
 
 # NOTE
 # Menso theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.

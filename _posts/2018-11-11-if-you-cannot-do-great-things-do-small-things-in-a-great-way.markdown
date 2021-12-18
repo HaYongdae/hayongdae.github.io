@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  PowerBI manual
-description: PowerBI의 기능과 사용법을 소개하고, 보고서 개발 방법론을 소개합니다.
+title:  PowerBI manual <br> - Intro and How to use
+description: PowerBI의 기능과 사용법을 소개하고, <br> 보고서 개발 노하우를 공유합니다.
 date:   2021-12-18 11:14:00 +0900
 image:  '/images/04.jpg'
 tags:   [PowerBI,Report,Visualization]
 ---
 ### 1. PowerBI 소개
 
-PowerBI는 데이터를 시각화하는 Microsoft사의 툴입니다. 엑셀이나 DataBase에 잘 정리된 2차원 행열 데이터를 가지고 있다면 아래와 같은 데쉬보드를 손쉽게 만들어 볼 수 있습니다. Microsoft의 지향점이 언제나 "사용자 친화"였다는 점을 생각하면 처음부터 어렵게 생각할 필요도 없습니다. 아래 제가 정리한 메뉴얼을 따라 실습하다 보면 "개인적인 지출 보고서"부터 "회사에서의 주간/월간보고 자료", "시스템 로그 보고서"까지 많은 부분을 그려내실 수 있습니다. 궁금하신 점은 메일 ([HYD's mail address](tearthelimit@gmail.com))로 문의를 주셔도 좋습니다.
+PowerBI는 데이터를 시각화하는 Microsoft사의 툴입니다. 엑셀이나 DataBase에 잘 정리된 2차원 행열 데이터를 가지고 있다면 아래와 같은 데쉬보드를 손쉽게 만들어 볼 수 있습니다. Microsoft의 지향점이 언제나 "사용자 친화"였다는 점을 생각하면 처음부터 어렵게 생각할 필요도 없습니다. 아래 제가 정리한 메뉴얼을 따라 실습하다 보면 "개인적인 지출 보고서"부터 "회사에서의 주간/월간보고 자료", "시스템 로그 보고서"까지 많은 부분을 그려내실 수 있습니다. 궁금하신 점은 메일 ([HYD's mail address]({site.baseurl}/contact/))로 문의를 주셔도 좋습니다.
 
-![Dashboard Example](https://i.pinimg.com/564x/58/7f/f6/587ff6e84599bfd1bae3d94ab3aa83f6.jpg)
+![Dashboard Example](https://i.pinimg.com/564x/58/7f/f6/587ff6e84599bfd1bae3d94ab3aa83f6.jpg#wide)
 *Photo by [datapine.com](https://i.pinimg.com/564x/58/7f/f6/587ff6e84599bfd1bae3d94ab3aa83f6.jpg) on [pinterest](https://pin.it/aWl26qJ)*
 
 ### 2. PowerBI 메뉴얼
