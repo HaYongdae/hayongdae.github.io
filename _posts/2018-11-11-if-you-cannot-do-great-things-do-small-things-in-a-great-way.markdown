@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  YD's PowerBI manual
+title:  PowerBI manual
 description: Test
 date:   2021-12-18 11:14:00 +0300
 image:  '/images/04.jpg'
