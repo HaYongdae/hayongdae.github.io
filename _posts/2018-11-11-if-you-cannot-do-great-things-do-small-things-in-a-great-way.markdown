@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  If you cannot do great things, do small things in a great way
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
-date:   2020-11-11 15:01:35 +0300
+title:  YD's PowerBI manual
+description: PowerBI의 기능과 사용법을 소개하고, 보고서 개발 방법론을 소개합니다.
+date:   2021-12-18 11:14:00 +0300
 image:  '/images/04.jpg'
-tags:   [DW, rest, PowerBI]
+tags:   [PowerBI,Report,Visualization]
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [Dino Reichmuth](https://unsplash.com/photos/A5rCN8626Ck) diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+### 1. PowerBI 소개
 
-### Synergistically evolve
+PowerBI는 데이터를 시각화하는 Microsoft사의 툴입니다. 엑셀이나 DataBase에 잘 정리된 2차원 행열 데이터를 가지고 있다면 아래와 같은 데쉬보드를 손쉽게 만들어 볼 수 있습니다. Microsoft의 지향점이 언제나 "사용자 친화"였다는 점을 생각하면 처음부터 어렵게 생각할 필요도 없습니다. 아래 제가 정리한 메뉴얼을 따라 실습하다 보면 "개인적인 지출 보고서"부터 "회사에서의 주간/월간보고 자료", "시스템 로그 보고서"까지 많은 부분을 그려내실 수 있습니다. 언제든 메일 ([HYD's mail address](tearthelimit@gmail.com))로 문의를 주셔도 좋습니다. 시작해보시죠. 
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
-
-![House]({{site.baseurl}}/images/04-1.jpg#wide)
+![House]({{site.baseurl}}/images/04-1.jpg)
 *Photo by [Dino Reichmuth](https://unsplash.com/photos/A5rCN8626Ck) on [Unsplash](https://unsplash.com/)*
+
+### 2. PowerBI 메뉴얼
+
+#### 1) PowerBI 다운로드
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
