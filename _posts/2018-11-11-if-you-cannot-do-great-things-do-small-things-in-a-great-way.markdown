@@ -11,8 +11,8 @@ tags:   [PowerBI,Report,Visualization]
 
 PowerBI는 데이터를 시각화하는 Microsoft사의 툴입니다. 엑셀이나 DataBase에 잘 정리된 2차원 행열 데이터를 가지고 있다면 아래와 같은 데쉬보드를 손쉽게 만들어 볼 수 있습니다. Microsoft의 지향점이 언제나 "사용자 친화"였다는 점을 생각하면 처음부터 어렵게 생각할 필요도 없습니다. 아래 제가 정리한 메뉴얼을 따라 실습하다 보면 "개인적인 지출 보고서"부터 "회사에서의 주간/월간보고 자료", "시스템 로그 보고서"까지 많은 부분을 그려내실 수 있습니다. 언제든 메일 ([HYD's mail address](tearthelimit@gmail.com))로 문의를 주셔도 좋습니다. 시작해보시죠. 
 
-![House]({{site.baseurl}}/images/04-1.jpg)
-*Photo by [Dino Reichmuth](https://unsplash.com/photos/A5rCN8626Ck) on [Unsplash](https://unsplash.com/)*
+![Dashboard Example](https://i.pinimg.com/564x/58/7f/f6/587ff6e84599bfd1bae3d94ab3aa83f6.jpg)
+*Photo by [datapine.com](https://i.pinimg.com/564x/58/7f/f6/587ff6e84599bfd1bae3d94ab3aa83f6.jpg) on [pinterest](https://pin.it/aWl26qJ)*
 
 ### 2. PowerBI 메뉴얼
 
