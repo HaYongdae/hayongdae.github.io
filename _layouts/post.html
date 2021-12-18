@@ -5,7 +5,9 @@ layout: default
 <div class="post-head">
   <div class="container">
     <div class="row">
+
       
+
       {% if page.video_embed %}
       <div class="col col-12">
         <div class="post-video">
@@ -38,7 +40,7 @@ layout: default
             </div>
           {% endif %}
   
-          <h1 class="post__title">{{ page.title <!--| escape 2021-12-18 prevent involving <br> tag in title--> }}</h1>
+          <h1 class="post__title">{ page.title <!--| escape 2021-12-18 prevent involving <br> tag in title--> }</h1>
   
           <div class="post__meta">
             <a href="{{site.baseurl}}/about/" class="post__author-image">
