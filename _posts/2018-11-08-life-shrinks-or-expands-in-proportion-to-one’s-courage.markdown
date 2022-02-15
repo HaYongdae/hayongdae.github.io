@@ -1,41 +1,20 @@
 ---
 layout: post
-title:  Life shrinks or expands in proportion to one’s courage
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
-date:   2021-12-18 11:14:00 +0900
-image:  '/images/03.jpg'
-tags:   [PowerBI, technology]
+title:  PowerBI 환경설정 <br> - 사용 전 준비 및 설정
+description: PowerBI를 사용하기 전 준비사항들 <br> (계정생성, 다운로드)등 방법을 설명합니다.
+date:   2022-02-15 13:00:00 +0900
+image:  '/images/04.jpg'
+tags:   [PowerBI,Report,Visualization]
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace [John Matychuk](https://unsplash.com/photos/gUK3lA3K7Yo) diversity and empowerment.
+## 1. PowerBI 사용환경 만들기
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+> PowerBI 개발을 위해서는 3가지 준비가 필요합니다. <br>
+1. Microsoft 계정, 2. PowerBI Desktop 설치, 3. PowerBI 라이선스 
 
-### Synergistically evolve
+## 2. PowerBI 메뉴얼
 
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+### 1) PowerBI 사용환경 만들기
 
-![Space]({{site.baseurl}}/images/03-1.jpg#wide)
-*Photo by [John Matychuk](https://unsplash.com/photos/gUK3lA3K7Yo) on [Unsplash](https://unsplash.com/)*
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable [Jamie Street](https://unsplash.com/photos/tP7fvu08uEk) potentialities.
-
-### Podcasting
-
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
-
-![Trees]({{site.baseurl}}/images/03-2.jpg)
-*Photo by [Jamie Street](https://unsplash.com/photos/tP7fvu08uEk) on [Unsplash](https://unsplash.com/)*
-
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+#### 1_1) PowerBI 계정 생성
+#### 1_2) PowerBI 다운로드
+#### 1_3) PowerBI 라이선스 정보

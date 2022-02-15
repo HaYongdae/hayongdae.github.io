@@ -17,28 +17,7 @@ Excel, PPT와 마찬가지로 IT개발자가 아닌 일반인도 손쉽게 사�
 ## 2. PowerBI 메뉴얼
 
 ### 1) PowerBI 사용환경 만들기
-### 2) PowerBI 다운로드
-### 1) PowerBI 다운로드
-### 1) PowerBI 다운로드
 
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable [Charis Sims](https://unsplash.com/photos/WTrApnUJWho) potentialities.
-
-### Podcasting
-
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or "organic" sources.
-
-![Tree]({{site.baseurl}}/images/04-2.jpg)
-*Photo by [Charis Sims](https://unsplash.com/photos/WTrApnUJWho) on [Unsplash](https://unsplash.com/)*
-
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+#### 1_1) PowerBI 계정 생성
+#### 1_2) PowerBI 다운로드
+#### 1_3) PowerBI 라이선스 정보
