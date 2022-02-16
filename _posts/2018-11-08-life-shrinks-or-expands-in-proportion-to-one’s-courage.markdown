@@ -18,3 +18,4 @@ tags:   [PowerBI,Report,Visualization]
 #### 1_1) PowerBI 계정 생성
 #### 1_2) PowerBI 다운로드
 #### 1_3) PowerBI 라이선스 정보
+
